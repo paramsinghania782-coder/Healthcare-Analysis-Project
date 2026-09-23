@@ -27,7 +27,6 @@ This project investigates the factors that influence the number of doctor visits
 
 **File:** `Healthcare_Data_Sheet.csv`  
 **Records:** 5,190 patients  
-**Source:** Australian Health Survey (adapted)
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -174,8 +173,7 @@ Then click **Kernel → Restart & Run All** to execute every cell in sequence.
 ## License
 
 This project is released for educational and research purposes.  
-Dataset adapted from publicly available Australian health survey data.
+Dataset adapted from publicly .
 
 ---
 
-*Made with ❤️ using Python Data Science Stack*
