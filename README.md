@@ -13,7 +13,6 @@ A complete end-to-end Python data analytics project analysing patient healthcare
 - [Project Phases](#project-phases)
 - [Key Findings](#key-findings)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ---
 
@@ -170,10 +169,4 @@ Then click **Kernel → Restart & Run All** to execute every cell in sequence.
 
 ---
 
-## License
-
-This project is released for educational and research purposes.  
-Dataset adapted from publicly .
-
----
 
